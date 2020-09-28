@@ -1,5 +1,7 @@
-# KYWK 
+# KREZ
 
-Last updated : 6/8 - Jason
+## New Repository for station KREZ
+
+by Laura Burt
 
 
