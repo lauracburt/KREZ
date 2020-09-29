@@ -3,7 +3,7 @@ about:
   enable : true
   image : "images/radiostationstudio.jpg"
   title : "Get to know us"
-  content : "Fierro 1280 AM Fierro 1280 am radio is locally owned and the only Spanish format radio station in the four corners!s"
+  content : "Fierro 1280 AM Fierro 1280 am radio is locally owned and the only Spanish format radio station in the four corners!"
 
   button:
     enable : false

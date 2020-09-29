@@ -1,22 +1,22 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/Fierro1280logo.jpg"
+  bg_image : "images/fierro1280mexicanflag.jpg"
   title : "Fierro 1280 AM"
-  content : "The Only Spanish Format in the Four Corners. Locally owned and operated"
+  content : "The only Spanish format radio station in the Four Corners!"
   button:
     enable : true
     label : "Listen Now"
-    link : "https://rdo.to/KRZEAM"
+    link : "https://streema.com/radios/KRZE?fbclid=IwAR3TBndgUBfzozRN7MgfNI8mV5a_nlY90Gv_5TjJOX8TQCQM3Pu1B5ojAGI#related-radios"
     target : "_blank"
 
 ############################# About #################################
 about:
   enable : true
   title : "About Us"
-  description : "Fierro 1280 am radio is locally owned and the only Spanish format radio station in the four corners.  Tune in to listen to host Juan Carlos Garcia in the morning and host Fernando Reyes in the afternoon. !"
+  description : "Fierro 1280 am radio is locally owned and the only Spanish format radio station in the Four Corners. Tune in to listen to host Juan Carlos Garcia in the morning and host Fernando Reyes in the afternoon!"
   content : "Thanks for letting us be a part of your day!"
-  image : "images/relaxradio.jpg"
+  image : "images/Fierro1280background.jpg"
 
 
 ######################### Portfolio ###############################
