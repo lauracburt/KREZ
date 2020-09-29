@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "KWYK"
+description: "Fierro 1280 AM"
 draft: false
 bg_image: "images/litmixerboard.jpg"
 ---

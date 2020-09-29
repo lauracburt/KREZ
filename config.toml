@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
-title = "KWYK"
+title = "Fierro 1280 AM"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -82,13 +82,13 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/94.9-KWYK-new.png"
+logo = "Fierro1280logo.jpg"
 # Meta data
 description = ""
 author = "Themefisher"
 # Contact Information
 phone = "505-325-1996"
-email = "info@kwykradio.com"
+email = "info@basinbroadcasting.com"
 location = "1515 W Main St, Farmington, NM 87401"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -120,7 +120,7 @@ map_marker = "images/marker.png"
 ############################# social site ########################
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://www.facebook.com/KwykRadio"
+link = "https://www.facebook.com/FIERRO1280AM"
 
 #[[params.social]]
 #icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -132,7 +132,7 @@ link = "https://www.facebook.com/KwykRadio"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://twitter.com/Fierro1280am?fbclid=IwAR1IpdXg07MgQmBzFBK-s2HR4tQ9s_cmrk6Ma0ktkAZcP13P-8JE4QMlBZg"
 
 ################################ English Language ########################
 [Languages.en]
@@ -142,4 +142,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright KWYK 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"
+copyright = "Copyright Fierro 1280AM 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"
