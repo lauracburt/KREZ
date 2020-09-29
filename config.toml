@@ -82,7 +82,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "Fierro1280logo.jpg"
+logo = "images/Fierro1280logosm.jpg"
 # Meta data
 description = ""
 author = "Themefisher"
