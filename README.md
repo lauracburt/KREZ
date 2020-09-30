@@ -2,7 +2,7 @@
 
 ## New Repository for station KREZ
 
-by Laura Burt
+by Jason Hand
 
 1. KRZE https://www.fierro1280.com/
 point to: https://witty-mushroom-0f6502b10.azurestaticapps.net
