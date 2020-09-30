@@ -2,7 +2,7 @@
 
 ## New Repository for station KREZ
 
-by Jason Hand - updated 9/30
+by Jason Hand - updated 9/30 4:44pm
 
 1. KRZE https://www.fierro1280.com/
 point to the [new KRZE site](https://witty-mushroom-0f6502b10.azurestaticapps.net)
