@@ -16,13 +16,13 @@ about:
   title : "About Us"
   description : "Fierro 1280 am radio is locally owned and the only Spanish format radio station in the Four Corners. Tune in to listen to host Juan Carlos Garcia in the morning and host Fernando Reyes in the afternoon!"
   content : "Thanks for letting us be a part of your day!"
-  image : "images/Fierro1280background.jpg"
+  image : "images/Fierro1280logo.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/vertgreyantenna.jpg"
+  bg_image : "images/Fierro1280background.jpg"
   title : ""
   content : ""
   button:
