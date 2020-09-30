@@ -2,10 +2,10 @@
 
 ## New Repository for station KREZ
 
-by Jason Hand
+by Jason Hand - updated 9/30
 
 1. KRZE https://www.fierro1280.com/
-point to: https://witty-mushroom-0f6502b10.azurestaticapps.net
+point to the [new KRZE site](https://witty-mushroom-0f6502b10.azurestaticapps.net)
 
 2. KGAK: http://kgakradio.com/ 
 point to: https://lemon-ocean-08d7caf10.azurestaticapps.net
@@ -20,4 +20,4 @@ point to: https://lemon-grass-094bc2f10.azurestaticapps.net
 point to: https://purple-ocean-0da662010.azurestaticapps.net
 
 6. KWYK: http://kwykradio.com/
-point to: https://ashy-grass-014dc541e.azurestaticapps.net/
+point to: https://nice-water-0b2638f10.azurestaticapps.net/
