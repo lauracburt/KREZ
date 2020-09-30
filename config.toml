@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
+baseURL = "https://witty-mushroom-0f6502b10.azurestaticapps.net/"
 title = "Fierro 1280 AM"
 theme = "airspace-hugo"
 # post pagination
