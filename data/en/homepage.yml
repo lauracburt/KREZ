@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Listen Now"
-    link : "https://streema.com/radios/KRZE?fbclid=IwAR3TBndgUBfzozRN7MgfNI8mV5a_nlY90Gv_5TjJOX8TQCQM3Pu1B5ojAGI#related-radios"
+    link : "http://streema.com/radios/play/KRZE"
     target : "_blank"
 
 ############################# About #################################
